@@ -1,0 +1,10 @@
+.img {
+    object-fit: fill;
+    width: 100%;
+    height: 20rem;
+  }
+
+.banner{
+    background-color: aliceblue;
+    padding: 10px;
+  }

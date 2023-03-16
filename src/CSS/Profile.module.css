@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+textarea{
+    display: block;
+    margin-left: 3vh;
+}
+select{
+    display: block;
+    margin-left: 3vh;
+    width: 400px;
+    padding: 5px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.profile img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin: 8vh 0 6vh 8vh;
+}
+.user{
+    margin-top: 5vh;
+    padding: 10px;
+}
+.user input{
+    margin: 0.5vh 0 0.5vh 3vh;
+    /* width: 45%; */
+    display: block;
+    padding: 5px;
+}
+.user label{
+    margin: 0.5vh 0 0.5vh 3vh;
+    font-size: 20px;
+    font-weight: 500;
+}
+#updatebtn{
+    margin: 5vh 0 0 3vh;
+}
